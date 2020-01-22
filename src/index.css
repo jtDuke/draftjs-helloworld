@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.my-little-app {
+  width: 500px;
+  margin: 50px auto;
+}
+
+.draft-editor-wrapper {
+  border: 1px solid #ccc;
+}
